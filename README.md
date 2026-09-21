@@ -12,6 +12,16 @@ Organizar el código del proyecto desde el inicio utilizando control de versione
 - Git
 - GitHub
 
+## Reflexión
+
+**¿Por qué Git es crítico en proyectos colaborativos?**
+
+_(escribe aquí tu respuesta)_
+
+**¿Qué problemas evita?**
+
+_(escribe aquí tu respuesta)_
+
 ## Autor
 
 Luz Diana
